@@ -1,11 +1,11 @@
 ### HowTo
 
 Подключение к CMS:
-* [Amiro](wiki/amiro)
-* [Bitrix](wiki/bitrix)
-* [Insales](wiki/insales) (в разработке)
-* [Joomla](wiki/joomla)
-* [Opencart](wiki/opencart)
-* [WordPress](wiki/wordwress)
+* [Amiro](https://github.com/boomstarterru/gifts-kb/wiki/amiro)
+* [Bitrix](https://github.com/boomstarterru/gifts-kb/wiki/Bitrix)
+* [Insales](https://github.com/boomstarterru/gifts-kb/wiki/insales) (в разработке)
+* [Joomla](https://github.com/boomstarterru/gifts-kb/wiki/joomla)
+* [Opencart](https://github.com/boomstarterru/gifts-kb/wiki/opencart)
+* [WordPress](https://github.com/boomstarterru/gifts-kb/wiki/wordwress)
 
-[Универсальный метод](wiki/universal) (beta)
+[Универсальный метод](https://github.com/boomstarterru/gifts-kb/wiki/universal) (beta)
