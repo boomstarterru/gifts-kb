@@ -1,1 +1,1 @@
-[Подключение к CMS](wiki)
+[Подключение к CMS](https://github.com/boomstarterru/gifts-kb/wiki)
