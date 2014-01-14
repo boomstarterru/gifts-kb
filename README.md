@@ -37,7 +37,7 @@
            boomstarter-shop-key="<shop_key>" 
            boomstarter-button-style="metro" 
            style="color: white; padding: 0.5em 1em; font: inherit; font-weight: bold; ">
-        Хочу в подарок
+            Хочу в подарок
         </a>
     </div>
 
