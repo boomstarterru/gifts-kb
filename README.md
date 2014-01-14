@@ -1,6 +1,5 @@
-### HowTo
+### Подключение к CMS:
 
-Подключение к CMS:
 * [Amiro](https://github.com/boomstarterru/gifts-kb/wiki/amiro)
 * [Bitrix](https://github.com/boomstarterru/gifts-kb/wiki/Bitrix)
 * [Insales](https://github.com/boomstarterru/gifts-kb/wiki/insales) (в разработке)
