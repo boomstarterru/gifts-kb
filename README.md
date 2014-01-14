@@ -23,7 +23,7 @@
 
 Конкретно, 
 
-для такого стиля:
+для стиля:
 
 ![custom-style](https://raw2.github.com/boomstarterru/gifts-kb/master/images/custom-style.jpg)
 
