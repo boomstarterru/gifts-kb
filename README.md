@@ -29,7 +29,15 @@
 разметка будет выглядеть так:
 
     <script type="text/javascript" src="http://boomstarter.ru/assets/gifts/api/v1.js" async></script>
-    <div class="boomstarter-gift" style="margin: 1em 0 0 1em; float: left;">
-        <a href="#" product-id="12" boomstarter-shop-uuid="6bdbfbfa-cd3e-4725-a822-b076ab3e60c7" boomstarter-shop-key="aad6139689" boomstarter-button-style="metro" style="color: white; padding: 0.5em 1em; font: inherit; font-weight: bold; ">Хочу в подарок</a>
+    <div class="boomstarter-gift" 
+         style="margin: 1em 0 0 1em; float: left;">
+        <a href="#" 
+           product-id="<product_id>" 
+           boomstarter-shop-uuid="<shop_uuid>" 
+           boomstarter-shop-key="<shop_key>" 
+           boomstarter-button-style="metro" 
+           style="color: white; padding: 0.5em 1em; font: inherit; font-weight: bold; ">
+        Хочу в подарок
+        </a>
     </div>
 
