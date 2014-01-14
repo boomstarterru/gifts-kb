@@ -6,6 +6,7 @@
 * [Joomla](https://github.com/boomstarterru/gifts-kb/wiki/joomla)
 * [Opencart](https://github.com/boomstarterru/gifts-kb/wiki/opencart)
 * [WordPress](https://github.com/boomstarterru/gifts-kb/wiki/wordwress)
+* [для Ajax-страниц](https://github.com/boomstarterru/gifts-kb/wiki/ajax) (в разработке)
 
 
 ### Стиль кнопки
