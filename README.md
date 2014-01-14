@@ -9,3 +9,4 @@
 * [WordPress](https://github.com/boomstarterru/gifts-kb/wiki/wordwress)
 
 [Универсальный метод](https://github.com/boomstarterru/gifts-kb/wiki/universal) (beta)
+ 
